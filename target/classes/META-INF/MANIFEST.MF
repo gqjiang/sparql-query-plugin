@@ -1,0 +1,34 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1628513245614
+Build-Jdk: 1.8.0_252
+Built-By: m005994
+Bundle-Description: Plug-in for the Protege Desktop ontology editor that
+  provides support for writing and executing SPARQL queries.
+Bundle-DocURL: http://bmir.stanford.edu/
+Bundle-License: http://www.gnu.org/copyleft/lesser.html
+Bundle-ManifestVersion: 2
+Bundle-Name: SPARQL Query Plugin
+Bundle-SymbolicName: org.protege.editor.owl.rdf;singleton:=true
+Bundle-Vendor: The Protege Development Team
+Bundle-Version: 3.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.protege.editor.owl.rdf;version="3.0.0";uses:="javax.
+ swing.table,org.protege.editor.owl.ui.view,org.semanticweb.owlapi.model
+ ",org.protege.editor.owl.rdf.repository;version="3.0.0";uses:="org.open
+ rdf.model,org.openrdf.query,org.openrdf.repository,org.openrdf.rio,org.
+ protege.editor.owl.rdf,org.protege.owl.rdf.api,org.semanticweb.owlapi.m
+ odel"
+Import-Package: org.protege.editor.core.ui.error;version="5.0",org.prote
+ ge.editor.owl;version="5.0",org.protege.editor.owl.model;version="5.0",
+ org.protege.editor.owl.ui.renderer;version="5.0",org.protege.editor.owl
+ .ui.table;version="5.0",org.protege.editor.owl.ui.view;version="5.0",or
+ g.protege.owl.rdf;version="2.0",javax.swing,javax.swing.filechooser,jav
+ ax.swing.table,org.openrdf.model;version="[2.7,3)",org.openrdf.query;ve
+ rsion="[2.7,3)",org.openrdf.repository;version="[2.7,3)",org.openrdf.ri
+ o;version="[2.7,3)",org.protege.editor.owl.rdf;version="[3.0,4)",org.pr
+ otege.editor.owl.rdf.repository;version="[3.0,4)",org.protege.owl.rdf.a
+ pi;version="[3.0,4)",org.semanticweb.owlapi.model;version="[4.5,5)",org
+ .semanticweb.owlapi.util;version="[4.5,5)",org.protege.editor.core;vers
+ ion="5.0",org.protege.editor.owl.ui;version="5.0"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.0.0.201509101326

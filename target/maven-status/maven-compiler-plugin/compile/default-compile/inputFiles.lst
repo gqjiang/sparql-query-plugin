@@ -1,0 +1,11 @@
+/Users/m005994/sparql-query-plugin/src/main/java/org/protege/editor/owl/rdf/SparqlResultSet.java
+/Users/m005994/sparql-query-plugin/src/main/java/org/protege/editor/owl/rdf/SwingResultModel.java
+/Users/m005994/sparql-query-plugin/src/main/java/org/protege/editor/owl/rdf/SparqlReasoner.java
+/Users/m005994/sparql-query-plugin/src/main/java/org/protege/editor/owl/rdf/SparqlReasonerException.java
+/Users/m005994/sparql-query-plugin/src/main/java/org/protege/editor/owl/rdf/SparqlQueryView.java
+/Users/m005994/sparql-query-plugin/src/main/java/org/protege/editor/owl/rdf/repository/BasicSparqlReasoner.java
+/Users/m005994/sparql-query-plugin/src/main/java/org/protege/editor/owl/rdf/repository/Util.java
+/Users/m005994/sparql-query-plugin/src/main/java/org/protege/editor/owl/rdf/repository/TupleQueryHandler.java
+/Users/m005994/sparql-query-plugin/src/main/java/org/protege/editor/owl/rdf/SparqlInferenceFactory.java
+/Users/m005994/sparql-query-plugin/src/main/java/org/protege/editor/owl/rdf/repository/BasicSparqlReasonerFactory.java
+/Users/m005994/sparql-query-plugin/src/main/java/org/protege/editor/owl/rdf/repository/GraphQueryHandler.java

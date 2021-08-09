@@ -1,0 +1,12 @@
+org/protege/editor/owl/rdf/SparqlInferenceFactory.class
+org/protege/editor/owl/rdf/SparqlReasoner.class
+org/protege/editor/owl/rdf/SparqlQueryView.class
+org/protege/editor/owl/rdf/repository/BasicSparqlReasonerFactory.class
+org/protege/editor/owl/rdf/repository/TupleQueryHandler.class
+org/protege/editor/owl/rdf/SwingResultModel.class
+org/protege/editor/owl/rdf/SparqlReasonerException.class
+org/protege/editor/owl/rdf/repository/GraphQueryHandler.class
+org/protege/editor/owl/rdf/repository/Util.class
+org/protege/editor/owl/rdf/SparqlResultSet.class
+org/protege/editor/owl/rdf/repository/BasicSparqlReasoner.class
+org/protege/editor/owl/rdf/SparqlQueryView$1.class
